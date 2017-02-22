@@ -11,8 +11,6 @@ import java.net.Socket;
 import java.net.SocketAddress;
 import java.nio.charset.Charset;
 
-import com.htwd.file.FileUtil;
-import com.htwd.string.StringUtil;
 
 /**
  * FTP 的摘要说明。  socket 默认绑定本地，端口随系统分配，最好不要设置，否则可能会产生无法绑定的问题

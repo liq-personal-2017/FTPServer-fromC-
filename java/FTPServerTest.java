@@ -4,8 +4,7 @@ import java.io.IOException;
 import java.io.UnsupportedEncodingException;
 import java.nio.charset.Charset;
 
-import com.htwd.file.FileUtil;
-import com.htwd.ftp.FTPServer;
+
 
 public class FtpServerTest {
 	public static void main(String[] args) throws IOException {
